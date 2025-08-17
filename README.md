@@ -1,4 +1,4 @@
-# Final---Projet-9---Etude-de-marché-avec-Python-
+# Etude-de-marché-avec-Python via le machine learning
 
 Compétences mises en oeuvre :
 
